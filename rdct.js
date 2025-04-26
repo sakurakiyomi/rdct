@@ -3,7 +3,7 @@ if (window.location.pathname == "/" || window.location.pathname == "/index.html"
   if (lastPage) {
     window.location.href = lastPage;
   } else {
-    window.location.href = "/p/hola.html";
+    window.location.href = "https://tes-pg.blogspot.com/p/hola.html";
   }
 } else {
   if (window.location.pathname.startsWith("/p/")) {
